@@ -15,8 +15,8 @@ class E02 {
         int difference = num1 - num2;
         int division = num1 / num2;
         System.out.println(num1 + " + " + num2 + " = " + sum);
-        System.out.println(num1 + " * " + num2 + " = " + product);
         System.out.println(num1 + " - " + num2 + " = " + difference);
+        System.out.println(num1 + " * " + num2 + " = " + product);
         System.out.println(num1 + " / " + num2 + " = " + division);
     }
 }
